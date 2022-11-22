@@ -42,7 +42,7 @@ For more information, refer to the full
 [Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
 
 ---
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct v2
 
 ## Our Pledge
 
