@@ -10,7 +10,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Start Patch
-        uses: anonrig/patch-my-code-of-conduct@v1.0.1
+        uses: anonrig/patch-my-code-of-conduct@v1.0.2
         with:
           base_file_path: './base.md'
           patch_file_path: './patch'
