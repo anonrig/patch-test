@@ -10,7 +10,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Start Patch
-        uses: pkgjs/patch-my-code-of-conduct@v1.0.3
+        uses: pkgjs/patch-my-code-of-conduct@v1.2.0
         with:
           base_url: './files/preamble.md'
           patch_file_path: './files/patch'
