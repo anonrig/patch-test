@@ -10,10 +10,10 @@ jobs:
         with:
           persist-credentials: false
       - name: Start Patch
-        uses: anonrig/patch-my-code-of-conduct@v1.0.2
+        uses: pkgjs/patch-my-code-of-conduct@v1.0.3
         with:
-          base_file_path: './base.md'
-          patch_file_path: './patch'
+          base_url: './files/preamble.md'
+          patch_file_path: './files/patch'
           output_file_path: './CODE_OF_CONDUCT.md'
       - uses: gr2m/create-or-update-pull-request-action@v1
         env:
@@ -23,3 +23,4 @@ jobs:
           branch: actions/patch-code-of-conduct  # Custom branch *just* for this Action.
           commit-message: 'doc: update Code of Conduct'
           title: 'doc: update Code of Conduct'
+          

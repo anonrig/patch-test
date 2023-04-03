@@ -1,13 +1,13 @@
 # Code of Conduct
 
-The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct-v20) in English, and [translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
+The OpenJS Foundation and its member projects use a modified version of the Contributor Covenant as their code of conduct, and the translations from the original script will not reflect all modifications. The full text is included below in English, and [the original translations](https://www.contributor-covenant.org/translations) are available on the Contributor Covenant website.
 
 ## Commitment
 
 All recipients of reports commit to:
 
-- maintain the confidentiality with regard to the reporter and victim of an incident, and
-- participate in the path for escalation as outlined in the section on Escalation when required.
+- maintain the confidentiality with regard to the reporter and victim of an incident
+- participate in the path for escalation as outlined in the section on Escalation when required
 
 ## Report an issue in a project
 
@@ -40,5 +40,3 @@ In order to escalate to the CoCP, email <coc-escalation@lists.openjsf.org>.
 
 For more information, refer to the full
 [Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
-
----
